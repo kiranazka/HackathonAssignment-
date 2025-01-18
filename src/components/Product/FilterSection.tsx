@@ -1,5 +1,6 @@
 
-
+import React from "react";
+import Image from "next/image";
 interface TextType {
   textTitle: string;
   textNavigation: string;
